@@ -1,4 +1,5 @@
 
+![logo](https://github.com/najimpinjari/najimpinjari/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Najim D pinjari</h1>
 <h3 align="center">.NET Full Stack Engineer</h3>
